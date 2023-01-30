@@ -1,1 +1,10 @@
-
+{
+  "manifest_version": 3,
+  "name": "Quote Extension",
+  "description": "Base Level Extension",
+  "version": "beta",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "hello_extensions.png"
+  }
+}
